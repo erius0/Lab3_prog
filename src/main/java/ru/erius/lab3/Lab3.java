@@ -11,6 +11,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 public class Lab3 {
+    // test
     public final static Cricket GAME = new Cricket();
     public final static Person
             ALICE = new Person("Алиса", 12),
